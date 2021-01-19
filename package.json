@@ -1,0 +1,30 @@
+{
+  "name": "admin_lte_express",
+  "version": "1.0.0",
+  "description": "Package for simple usage of adminlte.io with ExpressJS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon visualtest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kemott/admin_lte_express.git"
+  },
+  "keywords": [
+    "expressJS",
+    "express",
+    "admin_lte",
+    "adminlte"
+  ],
+  "author": "Tomasz Burzyński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kemott/admin_lte_express/issues"
+  },
+  "homepage": "https://github.com/Kemott/admin_lte_express#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7"
+  }
+}
