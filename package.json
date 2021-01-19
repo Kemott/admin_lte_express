@@ -4,7 +4,7 @@
   "description": "Package for simple usage of adminlte.io with ExpressJS applications.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --coverage --passWithNoTests",
     "start": "nodemon visualtest.js"
   },
   "repository": {
